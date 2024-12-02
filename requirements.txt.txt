@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+seaborn
+nltk
+transformers
+sentence-transformers
+scikit-learn
+tqdm
